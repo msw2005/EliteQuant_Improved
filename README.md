@@ -1,5 +1,5 @@
 # EliteQuant
-A list of online resources for quantitative modeling, trading, portfolio management 
+A list of online resources for quantitative modeling, trading, portfolio management (algorithmic tarding, quantitative methods,robo-advisory)
 
 There are lots of other valuable online resources. We are not trying to be exhaustive. Please feel free to send a pull request if you believe something is worth recommending. A general rule of thumb for open source projects is having already received 100 stars on github.
 
