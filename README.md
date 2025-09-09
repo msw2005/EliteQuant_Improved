@@ -458,7 +458,7 @@ Commodity Focused
 
 * [Foss Trading](http://blog.fosstrading.com/) - Algorithmic trading with free open source software
 
-* [Gekko Quant](http://gekkoquant.com/) - Quantitative Trading
+* [Gekko Quant](http://gekkoquant.com/) - Quant Trading
 
 * [Investment Idiocy](https://qoppac.blogspot.com/) - Systematic Trading, Quantitative Finance, Investing, Financial Activism, Economic decision making by Robert Carver; [his book](https://www.amazon.com/Systematic-Trading-designing-trading-investing/dp/0857194453) and [his Python library](https://github.com/robcarver17/pysystemtrade)
 
