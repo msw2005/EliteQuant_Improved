@@ -1,7 +1,7 @@
 # EliteQuant
 A list of online resources for quantitative modeling, trading, portfolio management (algorithmic tarding, quantitative methods,robo-advisory)
 
-There are lots of other valuable online resources. We are not trying to be exhaustive. Please feel free to send a pull request if you believe something is worth recommending. A general rule of thumb for open source projects is having already received 100 stars on github.
+There are lots of other valuable online resources. We are not trying to be exhaustive. Please feel free to send a pull request if you believe something is worth recommending. A general rule of thumb for open source projects is having already received 100 stars on GitHub.
 
 * [Quantitative Trading Platform](#quantitative-trading-platform)
 * [Trading System](#trading-system)
@@ -119,7 +119,7 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [gofinance](https://github.com/aktau/gofinance) - Financial information retrieval and munging in golang
 
-* [goib](https://github.com/gofinance/ib) - Pure Go interface to Interactive Brokers IB API 
+* [goib](https://github.com/gofinance/ib) - Pure Go interface to Interactive Brokers IB API.
 
 * [Matlab Trading Toolbox](https://www.mathworks.com/products/trading.html) - Official toolbox from Matlab; acommpanying [Introduction to Matlab Trading Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/52588-automated-trading-system-development-with-matlab?focused=5253184&tab=example), and [webinar Automated Trading System Development with MATLAB](https://www.mathworks.com/videos/automated-trading-system-development-with-matlab-106851.html), and [webinar Automated Trading with MATLAB](https://www.mathworks.com/videos/automated-trading-with-matlab-81911.html), as well as [webinar A Real-Time Trading System in MATLAB](https://www.mathworks.com/videos/a-real-time-trading-system-in-matlab-92900.html), [Automated Trading with Matlab](https://www.mathworks.com/videos/automated-trading-with-matlab-81911.html), [Commodities Trading with Matlab](https://www.mathworks.com/videos/commodities-trading-with-matlab-81986.html), [Cointegration and Pairs Trading with Econometrics Toolbox](https://www.mathworks.com/videos/cointegration-and-pairs-trading-with-econometrics-toolbox-81799.html)
 
