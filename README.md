@@ -30,7 +30,7 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [Collective2](https://trade.collective2.com/) - The platform that allows investors subscribe to top-traders; its [algotrades system](https://www.algotrades.net/)
 
-* [ZuluTrade](https://zulutrade.com) - The platform that allows investors subscribe to top-traders
+* [ZuluTrade](https://zulutrade.com) - The platform that allows investors subscribe to top-traders.
 
 * [Tradingview](https://www.tradingview.com/chart/) - It provides free widgets used for example [Huobi](https://www.hbg.com/zh-cn/exchange/?s=eos_usdt)
 
