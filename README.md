@@ -155,7 +155,9 @@ There are lots of other valuable online resources. We are not trying to be exhau
 
 * [flint](https://github.com/twosigma/flint) - A Time Series Library for Apache Spark
 
-* [Statsmodels](https://www.statsmodels.org) - Statsmodels’s Documentation
+* [Statsmodels](https://www.statsmodels.org) - Statsmodels’s Documentation\
+
+
 
 
 ## Quantitative Model
