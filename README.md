@@ -14,7 +14,7 @@ There are lots of other valuable online resources. We are not trying to be exhau
 * [Fintech](#fintech)
 * [Websites Forums Blogs](#websites-forums-blogs)
 
-- - -
+- - --
 
 ## Quantitative Trading Platform
 
