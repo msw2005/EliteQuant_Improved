@@ -9,10 +9,7 @@ There are lots of other valuable online resources. We are not trying to be exhau
 * [Quantitative Model](#quantitative-model)
 * [Trading API](#trading-api)
 * [Data Source](#data-source)
-* [Cryptocurrency](#cryptocurrency)
-* [Companies](#companies)
-* [Fintech](#fintech)
-* [Websites Forums Blogs](#websites-forums-blogs)
+* [Cryptoc
 
 - - --
 
